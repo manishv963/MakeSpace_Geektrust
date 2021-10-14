@@ -1,0 +1,3 @@
+com\geektrust\makespace\test\repository\RoomBookingRepositoryTest.class
+com\geektrust\makespace\test\service\RoomBookingServiceTest.class
+com\geektrust\makespace\test\validation\ValidationServiceTest.class
