@@ -1,0 +1,5 @@
+The statement can be found at below link
+https://www.geektrust.in/coding-problem/backend/make-space
+
+To execute the code we need to pass the path of file as command line argument
+java geektrust.jar filePath/testInput.txt
